@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject4</string>
+
+    <string name="not_register">Tidak memiliki akun? <font color='red'>Daftar Sekarang</font></string>
+    <string name="register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+    <string name="riwayat">Berhasil melakukan booking untuk melakukan perjalanan dari Jakarta menuju
+        Bandung pada tanggal 1 Februari 2022 pada pukul 9 AM. Jumlah pembelian tiket dewasa sejumlah 1 dan tiket anak-anak sejumlah 0.</string>
+</resources>
